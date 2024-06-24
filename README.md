@@ -41,8 +41,7 @@ This project involves fetching weather data from a Weather API and ingesting it 
 4. **Set up the MSSQL Server database:**
 
     Create a database and table to store the weather data. You can use the following SQL script as an example:
-
-    ```sql
+   ```
     CREATE DATABASE WeatherDB;
     GO
 
@@ -51,36 +50,15 @@ This project involves fetching weather data from a Weather API and ingesting it 
 
     CREATE TABLE WeatherData (
         id INT PRIMARY KEY IDENTITY(1,1),
-        location NVARCHAR(100),
+        datetime DATETIME DEFAULT GETDATE(),
+        name NVARCHAR(100),
         temperature FLOAT,
-        humidity FLOAT,
         pressure FLOAT,
-        weather_description NVARCHAR(255),
-        fetch_time DATETIME DEFAULT GETDATE()
-    );
-    GO
-    ```
-
-## Configuration
-
-1. **Set up the configuration file:**
-
-    Create a `config.ini` file in the root directory of the project with the following content:
-
-    ```ini
-    [weather_api]
-    api_key = YOUR_API_KEY
-    base_url = https://api.weatherapi.com/v1/current.json
-
-    [database]
-    server = YOUR_SERVER_NAME
-    database = WeatherDB
-    username = YOUR_DB_USERNAME
-    password = YOUR_DB_PASSWORD
-    ```
-
-2. **Replace the placeholders with your actual API key and database credentials.**
-
+        humidity FLOAT,
+        wind NVARCHAR(100)
+       );
+     GO
+   ```
 ## Usage
 
 1. **Run the data fetching script:**
@@ -103,16 +81,15 @@ This project involves fetching weather data from a Weather API and ingesting it 
 2. Ingest.py
 3. Requirements.txt
 4. README.md
-5. Venv/
 
 
 ## Dependencies 
-```
+
 - Requests
 - Pyodbc
-- Pandas== 2.2.2
+- Pandas 2.2.2
 
-```
+
 ## Contributing
 
 1. Clone the repository.
@@ -131,8 +108,6 @@ This project involves fetching weather data from a Weather API and ingesting it 
 
 6. Open a pull request.
 
-## License 
-This project is licensed under the MIT License.
 
 
 
