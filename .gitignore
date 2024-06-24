@@ -1,0 +1,6 @@
+.venv/ 
+*.csv
+tutorial*
+*.ipynb
+*.json
+*_venv
