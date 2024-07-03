@@ -1,0 +1,999 @@
+[2024-06-25T11:39:53.510+0300] {processor.py:161} INFO - Started process (PID=11117) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:39:53.513+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:39:53.517+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:39:53.516+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:39:53.605+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:39:54.037+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:39:54.037+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:39:54.138+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:39:54.138+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:39:54.483+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 1.021 seconds
+[2024-06-25T11:40:25.550+0300] {processor.py:161} INFO - Started process (PID=11119) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:25.551+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:40:25.554+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:25.553+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:25.565+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:25.588+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:25.588+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:40:25.604+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:25.604+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:40:25.624+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.082 seconds
+[2024-06-25T11:40:55.781+0300] {processor.py:161} INFO - Started process (PID=11121) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:55.782+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:40:55.784+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:55.783+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:55.796+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:40:55.820+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:55.819+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:40:55.835+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:40:55.834+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:40:55.862+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.088 seconds
+[2024-06-25T11:41:26.062+0300] {processor.py:161} INFO - Started process (PID=11123) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:26.063+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:41:26.066+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:26.065+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:26.077+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:26.102+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:26.102+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:41:26.117+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:26.117+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:41:26.133+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.078 seconds
+[2024-06-25T11:41:56.425+0300] {processor.py:161} INFO - Started process (PID=11125) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:56.426+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:41:56.428+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:56.427+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:56.440+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:41:56.465+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:56.465+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:41:56.481+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:41:56.481+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:41:56.510+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.093 seconds
+[2024-06-25T11:42:26.828+0300] {processor.py:161} INFO - Started process (PID=11481) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:26.830+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:42:26.834+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:26.833+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:26.885+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:26.939+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:26.939+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:42:26.981+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:26.981+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:42:27.018+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.212 seconds
+[2024-06-25T11:42:57.357+0300] {processor.py:161} INFO - Started process (PID=11550) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:57.358+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:42:57.360+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:57.360+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:57.375+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:42:57.410+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:57.410+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:42:57.426+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:42:57.426+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:42:57.452+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.112 seconds
+[2024-06-25T11:43:27.800+0300] {processor.py:161} INFO - Started process (PID=11567) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:27.801+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:43:27.802+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:27.802+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:27.816+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:27.854+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:27.853+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:43:27.883+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:27.883+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:43:27.914+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.123 seconds
+[2024-06-25T11:43:58.144+0300] {processor.py:161} INFO - Started process (PID=11593) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:58.145+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:43:58.146+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:58.146+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:58.158+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:43:58.181+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:58.181+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:43:58.196+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:43:58.196+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:43:58.228+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.093 seconds
+[2024-06-25T11:44:28.921+0300] {processor.py:161} INFO - Started process (PID=11640) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:28.922+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:44:28.924+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:28.924+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:28.939+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:28.970+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:28.969+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:44:28.989+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:28.989+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:44:29.009+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.096 seconds
+[2024-06-25T11:44:59.267+0300] {processor.py:161} INFO - Started process (PID=11693) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:59.268+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:44:59.270+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:59.270+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:59.282+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:44:59.304+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:59.304+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:44:59.319+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:44:59.319+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:44:59.348+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.089 seconds
+[2024-06-25T11:45:29.629+0300] {processor.py:161} INFO - Started process (PID=11719) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:45:29.630+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:45:29.632+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:45:29.632+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:45:29.646+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:45:29.670+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:45:29.670+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:45:29.687+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:45:29.687+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:45:29.720+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.099 seconds
+[2024-06-25T11:46:00.015+0300] {processor.py:161} INFO - Started process (PID=11748) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:00.016+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:46:00.019+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:00.018+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:00.031+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:00.055+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:00.055+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:46:00.070+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:00.070+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:46:00.101+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.095 seconds
+[2024-06-25T11:46:30.402+0300] {processor.py:161} INFO - Started process (PID=11777) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:30.403+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:46:30.405+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:30.405+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:30.421+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:46:30.449+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:30.449+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:46:30.467+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:46:30.467+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:46:30.498+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.103 seconds
+[2024-06-25T11:47:00.803+0300] {processor.py:161} INFO - Started process (PID=11809) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:00.804+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:47:00.806+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:00.806+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:00.820+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:00.850+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:00.850+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:47:00.867+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:00.867+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:47:00.899+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.104 seconds
+[2024-06-25T11:47:31.210+0300] {processor.py:161} INFO - Started process (PID=11838) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:31.213+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:47:31.218+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:31.217+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:31.236+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:47:31.267+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:31.267+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:47:31.288+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:47:31.288+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:47:31.322+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.128 seconds
+[2024-06-25T11:48:01.636+0300] {processor.py:161} INFO - Started process (PID=11867) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:01.637+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:48:01.639+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:01.638+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:01.653+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:01.681+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:01.681+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:48:01.699+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:01.698+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:48:01.731+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.103 seconds
+[2024-06-25T11:48:32.020+0300] {processor.py:161} INFO - Started process (PID=11899) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:32.021+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:48:32.023+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:32.023+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:32.036+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:48:32.065+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:32.064+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:48:32.083+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:48:32.083+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:48:32.115+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.103 seconds
+[2024-06-25T11:49:02.430+0300] {processor.py:161} INFO - Started process (PID=11980) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:02.431+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:49:02.432+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:02.432+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:02.447+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:02.474+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:02.474+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:49:02.495+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:02.495+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:49:02.526+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.106 seconds
+[2024-06-25T11:49:32.828+0300] {processor.py:161} INFO - Started process (PID=12075) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:32.829+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:49:32.831+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:32.831+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:32.845+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:49:32.872+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:32.872+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:49:32.892+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:49:32.891+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:49:32.915+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.097 seconds
+[2024-06-25T11:50:03.410+0300] {processor.py:161} INFO - Started process (PID=12227) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:03.412+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:50:03.414+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:03.414+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:03.435+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:03.483+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:03.483+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:50:03.513+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:03.513+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:50:03.549+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.155 seconds
+[2024-06-25T11:50:34.353+0300] {processor.py:161} INFO - Started process (PID=12311) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:34.355+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:50:34.366+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:34.363+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:34.419+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:50:34.510+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:34.508+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:50:34.572+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:50:34.571+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:50:34.645+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.323 seconds
+[2024-06-25T11:51:04.789+0300] {processor.py:161} INFO - Started process (PID=12387) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:04.790+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:51:04.803+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:04.800+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:04.832+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:04.904+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:04.903+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:51:04.961+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:04.960+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:51:05.067+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.296 seconds
+[2024-06-25T11:51:36.015+0300] {processor.py:161} INFO - Started process (PID=12392) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:36.016+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T11:51:36.018+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:36.017+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:36.031+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T11:51:36.057+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:36.057+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T11:51:36.073+0300] {logging_mixin.py:188} INFO - [2024-06-25T11:51:36.072+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T11:51:36.103+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.097 seconds
+[2024-06-25T12:25:10.526+0300] {processor.py:161} INFO - Started process (PID=4433) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:10.539+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:25:10.541+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:10.540+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:10.555+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:10.569+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:10.569+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:25:10.589+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:10.589+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:25:10.616+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.099 seconds
+[2024-06-25T12:25:41.150+0300] {processor.py:161} INFO - Started process (PID=4829) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:41.151+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:25:41.159+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:41.158+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:41.172+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:25:41.281+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:41.281+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:25:41.296+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:25:41.296+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:25:41.324+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.185 seconds
+[2024-06-25T12:26:11.749+0300] {processor.py:161} INFO - Started process (PID=5129) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:11.750+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:26:11.752+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:11.751+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:11.767+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:11.799+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:11.798+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:26:11.823+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:11.823+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:26:11.844+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.107 seconds
+[2024-06-25T12:26:43.605+0300] {processor.py:161} INFO - Started process (PID=5261) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:43.606+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:26:43.609+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:43.608+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:43.622+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:26:43.655+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:43.655+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:26:43.693+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:26:43.692+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:26:43.736+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.140 seconds
+[2024-06-25T12:27:13.887+0300] {processor.py:161} INFO - Started process (PID=5543) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:13.888+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:27:13.891+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:13.890+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:13.905+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:13.931+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:13.931+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:27:13.950+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:13.950+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:27:13.982+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.104 seconds
+[2024-06-25T12:27:44.280+0300] {processor.py:161} INFO - Started process (PID=5580) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:44.281+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:27:44.283+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:44.282+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:44.296+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:27:44.320+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:44.320+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:27:44.336+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:27:44.336+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:27:44.356+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.084 seconds
+[2024-06-25T12:28:14.732+0300] {processor.py:161} INFO - Started process (PID=5677) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:14.733+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:28:14.736+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:14.735+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:14.750+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:14.777+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:14.777+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:28:14.794+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:14.793+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:28:14.823+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.100 seconds
+[2024-06-25T12:28:45.262+0300] {processor.py:161} INFO - Started process (PID=5712) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:45.264+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:28:45.267+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:45.266+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:45.285+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:28:45.317+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:45.316+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:28:45.337+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:28:45.336+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:28:45.382+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.132 seconds
+[2024-06-25T12:29:15.866+0300] {processor.py:161} INFO - Started process (PID=5928) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:15.868+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:29:15.870+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:15.869+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:15.886+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:15.918+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:15.917+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:29:15.937+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:15.937+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:29:15.973+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.117 seconds
+[2024-06-25T12:29:46.313+0300] {processor.py:161} INFO - Started process (PID=6385) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:46.314+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:29:46.316+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:46.316+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:46.331+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:29:46.360+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:46.360+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:29:46.378+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:29:46.377+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:29:46.407+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.104 seconds
+[2024-06-25T12:30:16.917+0300] {processor.py:161} INFO - Started process (PID=6601) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:16.918+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:30:16.921+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:16.920+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:16.944+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:16.982+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:16.982+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:30:17.006+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:17.006+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:30:17.046+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.144 seconds
+[2024-06-25T12:30:47.357+0300] {processor.py:161} INFO - Started process (PID=6634) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:47.359+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:30:47.361+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:47.361+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:47.375+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:30:47.400+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:47.400+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:30:47.415+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:30:47.415+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:30:47.447+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.098 seconds
+[2024-06-25T12:31:17.984+0300] {processor.py:161} INFO - Started process (PID=6728) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:17.985+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:31:17.987+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:17.987+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:18.006+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:18.040+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:18.040+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:31:18.066+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:18.066+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:31:18.100+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.129 seconds
+[2024-06-25T12:31:48.496+0300] {processor.py:161} INFO - Started process (PID=6766) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:48.497+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:31:48.499+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:48.499+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:48.512+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:31:48.537+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:48.537+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:31:48.553+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:31:48.553+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:31:48.584+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.096 seconds
+[2024-06-25T12:32:19.109+0300] {processor.py:161} INFO - Started process (PID=6864) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:19.111+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:32:19.113+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:19.112+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:19.128+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:19.157+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:19.156+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:32:19.176+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:19.176+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:32:19.206+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.107 seconds
+[2024-06-25T12:32:49.631+0300] {processor.py:161} INFO - Started process (PID=6899) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:49.633+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:32:49.635+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:49.634+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:49.649+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:32:49.682+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:49.681+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:32:49.699+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:32:49.699+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:32:49.729+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.108 seconds
+[2024-06-25T12:33:20.080+0300] {processor.py:161} INFO - Started process (PID=6996) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:20.081+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:33:20.083+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:20.082+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:20.097+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:20.123+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:20.122+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:33:20.139+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:20.138+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:33:20.168+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.098 seconds
+[2024-06-25T12:33:50.511+0300] {processor.py:161} INFO - Started process (PID=7032) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:50.513+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:33:50.514+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:50.513+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:50.531+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:33:50.558+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:50.558+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:33:50.574+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:33:50.574+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:33:50.604+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.102 seconds
+[2024-06-25T12:34:20.841+0300] {processor.py:161} INFO - Started process (PID=7129) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:20.842+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:34:20.843+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:20.843+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:20.859+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:20.885+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:20.885+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:34:20.900+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:20.900+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:34:20.933+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.100 seconds
+[2024-06-25T12:34:51.214+0300] {processor.py:161} INFO - Started process (PID=7163) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:51.215+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:34:51.216+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:51.216+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:51.230+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:34:51.256+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:51.255+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:34:51.271+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:34:51.270+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:34:51.391+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.186 seconds
+[2024-06-25T12:35:21.805+0300] {processor.py:161} INFO - Started process (PID=7327) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:21.807+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:35:21.809+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:21.807+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:21.831+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:21.866+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:21.866+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:35:21.997+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:21.997+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:35:22.025+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.231 seconds
+[2024-06-25T12:35:31.925+0300] {processor.py:161} INFO - Started process (PID=7342) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:31.929+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:35:31.933+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:31.930+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:32.654+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:35:32.765+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:32.765+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:35:32.781+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:35:32.781+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:35:32.815+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.904 seconds
+[2024-06-25T12:36:03.804+0300] {processor.py:161} INFO - Started process (PID=7393) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:03.806+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:36:03.807+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:03.806+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:04.267+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:04.285+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:04.285+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:36:04.299+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:04.299+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:36:04.329+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.535 seconds
+[2024-06-25T12:36:34.520+0300] {processor.py:161} INFO - Started process (PID=7564) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:34.521+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:36:34.522+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:34.522+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:35.065+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:36:35.086+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:35.085+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:36:35.103+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:36:35.103+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:36:35.134+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.624 seconds
+[2024-06-25T12:37:05.415+0300] {processor.py:161} INFO - Started process (PID=7852) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:05.417+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:37:05.418+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:05.417+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:05.743+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:05.766+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:05.765+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:37:05.787+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:05.786+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:37:05.831+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.425 seconds
+[2024-06-25T12:37:36.777+0300] {processor.py:161} INFO - Started process (PID=8021) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:36.778+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:37:36.779+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:36.778+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:37.093+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:37:37.116+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:37.115+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:37:37.132+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:37:37.132+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:37:37.164+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.396 seconds
+[2024-06-25T12:38:07.421+0300] {processor.py:161} INFO - Started process (PID=8070) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:07.422+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:38:07.423+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:07.422+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:07.788+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:07.818+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:07.818+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:38:07.838+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:07.838+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:38:07.873+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.461 seconds
+[2024-06-25T12:38:38.112+0300] {processor.py:161} INFO - Started process (PID=8299) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:38.113+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:38:38.114+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:38.114+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:38.428+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:38:38.450+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:38.449+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:38:38.466+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:38:38.465+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:38:38.494+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.390 seconds
+[2024-06-25T12:39:08.789+0300] {processor.py:161} INFO - Started process (PID=8465) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:08.790+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:39:08.792+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:08.791+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:09.124+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:09.151+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:09.151+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:39:09.168+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:09.167+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:39:09.197+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.418 seconds
+[2024-06-25T12:39:39.368+0300] {processor.py:161} INFO - Started process (PID=8694) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:39.369+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:39:39.370+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:39.370+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:39.682+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:39:39.703+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:39.703+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:39:39.720+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:39:39.719+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:39:39.750+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.391 seconds
+[2024-06-25T12:40:10.289+0300] {processor.py:161} INFO - Started process (PID=8743) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:10.291+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:40:10.292+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:10.291+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:10.629+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:10.649+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:10.649+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:40:10.664+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:10.664+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:40:10.696+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.416 seconds
+[2024-06-25T12:40:41.541+0300] {processor.py:161} INFO - Started process (PID=9091) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:41.543+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:40:41.544+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:41.543+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:41.864+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:40:41.888+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:41.888+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:40:41.904+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:40:41.904+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:40:41.935+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.403 seconds
+[2024-06-25T12:41:12.538+0300] {processor.py:161} INFO - Started process (PID=9165) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:12.539+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:41:12.540+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:12.539+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:12.964+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:12.999+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:12.998+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:41:13.034+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:13.033+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:41:13.068+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.539 seconds
+[2024-06-25T12:41:43.720+0300] {processor.py:161} INFO - Started process (PID=9505) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:43.722+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:41:43.723+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:43.722+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:44.061+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:41:44.085+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:44.084+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:41:44.104+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:41:44.104+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:41:44.136+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.425 seconds
+[2024-06-25T12:42:14.421+0300] {processor.py:161} INFO - Started process (PID=9851) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:14.422+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:42:14.423+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:14.423+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:14.753+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:14.775+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:14.774+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:42:14.791+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:14.791+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:42:14.819+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.407 seconds
+[2024-06-25T12:42:45.082+0300] {processor.py:161} INFO - Started process (PID=10080) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:45.083+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:42:45.084+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:45.084+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:45.414+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:42:45.437+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:45.436+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:42:45.455+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:42:45.455+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:42:45.484+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.412 seconds
+[2024-06-25T12:43:15.835+0300] {processor.py:161} INFO - Started process (PID=10486) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:15.836+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:43:15.837+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:15.837+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:16.182+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:16.203+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:16.203+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:43:16.221+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:16.221+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:43:16.251+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.425 seconds
+[2024-06-25T12:43:46.533+0300] {processor.py:161} INFO - Started process (PID=10535) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:46.534+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:43:46.535+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:46.535+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:46.870+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:43:46.895+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:46.895+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:43:46.913+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:43:46.912+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:43:46.941+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.417 seconds
+[2024-06-25T12:44:17.231+0300] {processor.py:161} INFO - Started process (PID=10641) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:17.232+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:44:17.233+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:17.233+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:17.673+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:17.702+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:17.702+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:44:17.723+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:17.723+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:44:17.763+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.541 seconds
+[2024-06-25T12:44:48.015+0300] {processor.py:161} INFO - Started process (PID=10690) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:48.016+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:44:48.017+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:48.016+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:48.370+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:44:48.395+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:48.395+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:44:48.411+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:44:48.411+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:44:48.438+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.433 seconds
+[2024-06-25T12:45:18.719+0300] {processor.py:161} INFO - Started process (PID=10916) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:18.720+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:45:18.721+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:18.721+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:19.096+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:19.122+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:19.121+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:45:19.143+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:19.143+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:45:19.173+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.464 seconds
+[2024-06-25T12:45:49.415+0300] {processor.py:161} INFO - Started process (PID=11088) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:49.416+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:45:49.417+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:49.417+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:49.823+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:45:49.853+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:49.852+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:45:49.873+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:45:49.873+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:45:49.913+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.507 seconds
+[2024-06-25T12:46:20.052+0300] {processor.py:161} INFO - Started process (PID=11194) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:20.054+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:46:20.055+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:20.055+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:20.401+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:20.424+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:20.424+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:46:20.442+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:20.442+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:46:20.472+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.430 seconds
+[2024-06-25T12:46:50.715+0300] {processor.py:161} INFO - Started process (PID=11243) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:50.717+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:46:50.718+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:50.717+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:51.029+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:46:51.051+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:51.051+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:46:51.067+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:46:51.067+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:46:51.095+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.388 seconds
+[2024-06-25T12:47:21.279+0300] {processor.py:161} INFO - Started process (PID=11375) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:21.281+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:47:21.282+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:21.281+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:21.640+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:21.660+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:21.659+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:47:21.675+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:21.674+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:47:21.707+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.436 seconds
+[2024-06-25T12:47:51.967+0300] {processor.py:161} INFO - Started process (PID=11576) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:51.969+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:47:51.970+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:51.969+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:52.316+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:47:52.339+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:52.339+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:47:52.356+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:47:52.355+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:47:52.387+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.432 seconds
+[2024-06-25T12:48:22.636+0300] {processor.py:161} INFO - Started process (PID=11747) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:22.637+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:48:22.638+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:22.638+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:22.971+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:22.994+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:22.994+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:48:23.012+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:23.012+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:48:23.030+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.403 seconds
+[2024-06-25T12:48:53.338+0300] {processor.py:161} INFO - Started process (PID=11793) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:53.339+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:48:53.340+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:53.340+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:53.933+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:48:53.966+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:53.966+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:48:53.987+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:48:53.986+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:48:54.021+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.696 seconds
+[2024-06-25T12:49:24.174+0300] {processor.py:161} INFO - Started process (PID=11912) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:24.177+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:49:24.178+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:24.177+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:24.538+0300] {processor.py:840} INFO - DAG(s) 'fetch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:24.572+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:24.571+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:49:24.604+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:24.604+0300] {dag.py:3954} INFO - Setting next_dagrun for fetch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:49:24.648+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.484 seconds
+[2024-06-25T12:49:30.828+0300] {processor.py:161} INFO - Started process (PID=11986) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:30.829+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:49:30.830+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:30.830+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:31.319+0300] {processor.py:840} INFO - DAG(s) 'etch' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:31.499+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.499+0300] {override.py:1829} INFO - Created Permission View: can edit on DAG:etch
+[2024-06-25T12:49:31.508+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.507+0300] {override.py:1829} INFO - Created Permission View: can delete on DAG:etch
+[2024-06-25T12:49:31.515+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.515+0300] {override.py:1829} INFO - Created Permission View: can read on DAG:etch
+[2024-06-25T12:49:31.516+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.516+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:49:31.525+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.524+0300] {dag.py:3118} INFO - Creating ORM DAG for etch
+[2024-06-25T12:49:31.532+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:31.532+0300] {dag.py:3954} INFO - Setting next_dagrun for etch to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:49:31.549+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.733 seconds
+[2024-06-25T12:49:37.940+0300] {processor.py:161} INFO - Started process (PID=12008) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:37.941+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:49:37.944+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:37.942+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:38.418+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:49:38.369+0300] {dagbag.py:355} ERROR - Failed to import: /home/user/rubix/internship_project/dags/fetch_DAG.py
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/user/rubix/internship_project/dags/fetch_DAG.py", line 56, in <module>
+    with DAG('Fetch Data',
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'Fetch Data' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-06-25T12:49:38.418+0300] {processor.py:842} WARNING - No viable dags retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:49:38.440+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.509 seconds
+[2024-06-25T12:50:09.318+0300] {processor.py:161} INFO - Started process (PID=12208) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:09.319+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:50:09.320+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:50:09.320+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:09.668+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:50:09.665+0300] {dagbag.py:355} ERROR - Failed to import: /home/user/rubix/internship_project/dags/fetch_DAG.py
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/user/rubix/internship_project/dags/fetch_DAG.py", line 56, in <module>
+    with DAG('Fetch Data',
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'Fetch Data' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-06-25T12:50:09.669+0300] {processor.py:842} WARNING - No viable dags retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:09.697+0300] {processor.py:186} ERROR - Got an exception! Propagating...
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1094, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 686, in do_commit
+    dbapi_connection.commit()
+sqlite3.OperationalError: disk I/O error
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 182, in _run_file_processor
+    _handle_dag_file_processing()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 163, in _handle_dag_file_processing
+    result: tuple[int, int] = dag_file_processor.process_file(
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/utils/session.py", line 79, in wrapper
+    return func(*args, session=session, **kwargs)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 843, in process_file
+    DagFileProcessor.update_import_errors(
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/api_internal/internal_api_call.py", line 115, in wrapper
+    return func(*args, **kwargs)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/utils/session.py", line 76, in wrapper
+    return func(*args, **kwargs)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/dag_processing/processor.py", line 646, in update_import_errors
+    session.commit()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 1454, in commit
+    self._transaction.commit(_to_root=self.future)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/orm/session.py", line 839, in commit
+    trans.commit()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2469, in commit
+    self._do_commit()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2659, in _do_commit
+    self._connection_commit_impl()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2630, in _connection_commit_impl
+    self.connection._commit_impl()
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1096, in _commit_impl
+    self._handle_dbapi_exception(e, None, None, None, None)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 2134, in _handle_dbapi_exception
+    util.raise_(
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/util/compat.py", line 211, in raise_
+    raise exception
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/base.py", line 1094, in _commit_impl
+    self.engine.dialect.do_commit(self.connection)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/sqlalchemy/engine/default.py", line 686, in do_commit
+    dbapi_connection.commit()
+sqlalchemy.exc.OperationalError: (sqlite3.OperationalError) disk I/O error
+(Background on this error at: https://sqlalche.me/e/14/e3q8)
+[2024-06-25T12:50:39.903+0300] {processor.py:161} INFO - Started process (PID=12462) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:39.905+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:50:39.906+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:50:39.905+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:40.216+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:50:40.213+0300] {dagbag.py:355} ERROR - Failed to import: /home/user/rubix/internship_project/dags/fetch_DAG.py
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/user/rubix/internship_project/dags/fetch_DAG.py", line 56, in <module>
+    with DAG('Fetch Data',
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dag.py", line 519, in __init__
+    validate_key(dag_id)
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/utils/helpers.py", line 57, in validate_key
+    raise AirflowException(
+airflow.exceptions.AirflowException: The key 'Fetch Data' has to be made of alphanumeric characters, dashes, dots and underscores exclusively
+[2024-06-25T12:50:40.216+0300] {processor.py:842} WARNING - No viable dags retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:50:40.242+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.349 seconds
+[2024-06-25T12:51:00.274+0300] {processor.py:161} INFO - Started process (PID=12499) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:00.276+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:51:00.277+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.277+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:00.601+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:00.720+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.718+0300] {override.py:1829} INFO - Created Permission View: can edit on DAG:Fetch_Data
+[2024-06-25T12:51:00.735+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.734+0300] {override.py:1829} INFO - Created Permission View: can delete on DAG:Fetch_Data
+[2024-06-25T12:51:00.743+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.742+0300] {override.py:1829} INFO - Created Permission View: can read on DAG:Fetch_Data
+[2024-06-25T12:51:00.744+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.743+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:51:00.855+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.854+0300] {dag.py:3118} INFO - Creating ORM DAG for Fetch_Data
+[2024-06-25T12:51:00.862+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:00.862+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:51:00.893+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.630 seconds
+[2024-06-25T12:51:31.823+0300] {processor.py:161} INFO - Started process (PID=12851) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:31.825+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:51:31.827+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:31.826+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:32.201+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:51:32.227+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:32.226+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:51:32.251+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:51:32.251+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:51:32.300+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.486 seconds
+[2024-06-25T12:52:02.716+0300] {processor.py:161} INFO - Started process (PID=13155) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:02.718+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:52:02.720+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:02.719+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:03.033+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:03.055+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:03.055+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:52:03.071+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:03.071+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:52:03.099+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.394 seconds
+[2024-06-25T12:52:33.238+0300] {processor.py:161} INFO - Started process (PID=13262) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:33.239+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:52:33.240+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:33.240+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:33.580+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:52:33.608+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:33.608+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:52:33.624+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:52:33.624+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:52:33.656+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.427 seconds
+[2024-06-25T12:53:03.828+0300] {processor.py:161} INFO - Started process (PID=13463) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:03.829+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:53:03.830+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:03.830+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:04.179+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:04.205+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:04.204+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:53:04.222+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:04.222+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:53:04.254+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.437 seconds
+[2024-06-25T12:53:34.427+0300] {processor.py:161} INFO - Started process (PID=13509) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:34.429+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:53:34.430+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:34.429+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:34.770+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:53:34.794+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:34.794+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:53:34.812+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:53:34.811+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:53:34.831+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.414 seconds
+[2024-06-25T12:54:00.220+0300] {processor.py:161} INFO - Started process (PID=13552) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:00.221+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:00.222+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:00.222+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:00.621+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:00.644+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:00.644+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:00.663+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:00.663+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:00.693+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.486 seconds
+[2024-06-25T12:54:16.945+0300] {processor.py:161} INFO - Started process (PID=13575) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:16.947+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:16.948+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:16.948+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:17.836+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:17.863+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:17.863+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:17.882+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:17.882+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:17.913+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.980 seconds
+[2024-06-25T12:54:25.100+0300] {processor.py:161} INFO - Started process (PID=13592) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:25.102+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:25.103+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:25.102+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:25.501+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:25.523+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:25.523+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:25.542+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:25.542+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:25.572+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.484 seconds
+[2024-06-25T12:54:35.122+0300] {processor.py:161} INFO - Started process (PID=13617) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:35.127+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:35.130+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:35.128+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:35.603+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:35.647+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:35.646+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:35.669+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:35.669+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:35.730+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.630 seconds
+[2024-06-25T12:54:38.237+0300] {processor.py:161} INFO - Started process (PID=13631) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:38.238+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:38.239+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:38.238+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:38.618+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:38.649+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:38.648+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:38.671+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:38.671+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:38.707+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.479 seconds
+[2024-06-25T12:54:42.590+0300] {processor.py:161} INFO - Started process (PID=13642) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:42.598+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:42.619+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:42.605+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:43.402+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:43.435+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:43.434+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:43.457+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:43.457+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:43.492+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.954 seconds
+[2024-06-25T12:54:46.535+0300] {processor.py:161} INFO - Started process (PID=13654) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:46.536+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:46.538+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:46.537+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:46.545+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:46.543+0300] {dagbag.py:355} ERROR - Failed to import: /home/user/rubix/internship_project/dags/fetch_DAG.py
+Traceback (most recent call last):
+  File "/home/user/rubix/internship_project/.venv/lib/python3.10/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/user/rubix/internship_project/dags/fetch_DAG.py", line 12
+    url = "https://api.openweathermap.org/data/2.5/weather?appid=a2b2e442aba806b89cc7e799526a1158&lon=35.5018&lat=33.8938"
+IndentationError: unexpected indent
+[2024-06-25T12:54:46.545+0300] {processor.py:842} WARNING - No viable dags retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:46.585+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.065 seconds
+[2024-06-25T12:54:47.736+0300] {processor.py:161} INFO - Started process (PID=13658) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:47.738+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:47.739+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:47.738+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:48.151+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:48.201+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:48.200+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:48.231+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:48.230+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:48.271+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.544 seconds
+[2024-06-25T12:54:52.789+0300] {processor.py:161} INFO - Started process (PID=13721) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:52.790+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:54:52.793+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:52.792+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:53.155+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:54:53.183+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:53.182+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:54:53.201+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:54:53.201+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:54:53.234+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.455 seconds
+[2024-06-25T12:55:24.145+0300] {processor.py:161} INFO - Started process (PID=13925) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:24.146+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:55:24.147+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:24.146+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:24.484+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:24.511+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:24.511+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:55:24.531+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:24.531+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:55:24.563+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.427 seconds
+[2024-06-25T12:55:55.535+0300] {processor.py:161} INFO - Started process (PID=14024) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:55.536+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:55:55.537+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:55.536+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:55.852+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:55:55.876+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:55.875+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:55:55.895+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:55:55.895+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:55:55.929+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.404 seconds
+[2024-06-25T12:56:26.904+0300] {processor.py:161} INFO - Started process (PID=14184) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:26.905+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:56:26.906+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:26.905+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:27.314+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:27.339+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:27.338+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:56:27.359+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:27.358+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:56:27.390+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.498 seconds
+[2024-06-25T12:56:58.236+0300] {processor.py:161} INFO - Started process (PID=14281) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:58.237+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:56:58.238+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:58.237+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:58.568+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:56:58.590+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:58.590+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:56:58.609+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:56:58.609+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:56:58.639+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.412 seconds
+[2024-06-25T12:57:28.941+0300] {processor.py:161} INFO - Started process (PID=14335) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:57:28.942+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:57:28.943+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:57:28.943+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:57:29.279+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:57:29.303+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:57:29.302+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:57:29.321+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:57:29.320+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:57:29.356+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.424 seconds
+[2024-06-25T12:58:00.157+0300] {processor.py:161} INFO - Started process (PID=14381) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:00.159+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:58:00.160+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:00.159+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:00.608+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:00.631+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:00.631+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:58:00.646+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:00.646+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:58:00.673+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.527 seconds
+[2024-06-25T12:58:31.564+0300] {processor.py:161} INFO - Started process (PID=14462) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:31.565+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:58:31.566+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:31.565+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:31.926+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:58:31.966+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:31.965+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:58:31.996+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:58:31.995+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:58:32.016+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.461 seconds
+[2024-06-25T12:59:02.519+0300] {processor.py:161} INFO - Started process (PID=14533) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:02.521+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:59:02.522+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:02.521+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:02.982+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:03.007+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:03.007+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:59:03.032+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:03.032+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:59:03.066+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.555 seconds
+[2024-06-25T12:59:33.983+0300] {processor.py:161} INFO - Started process (PID=14607) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:33.985+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T12:59:33.986+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:33.986+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:34.325+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T12:59:34.347+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:34.347+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T12:59:34.363+0300] {logging_mixin.py:188} INFO - [2024-06-25T12:59:34.363+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T12:59:34.392+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.424 seconds
+[2024-06-25T13:00:04.848+0300] {processor.py:161} INFO - Started process (PID=14755) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:04.850+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T13:00:04.851+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:04.850+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:05.221+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:05.262+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:05.262+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T13:00:05.285+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:05.285+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T13:00:05.320+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.483 seconds
+[2024-06-25T13:00:35.530+0300] {processor.py:161} INFO - Started process (PID=14976) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:35.532+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T13:00:35.533+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:35.532+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:35.925+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T13:00:35.948+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:35.948+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T13:00:35.968+0300] {logging_mixin.py:188} INFO - [2024-06-25T13:00:35.968+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T13:00:36.002+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.485 seconds
+[2024-06-25T14:10:07.366+0300] {processor.py:161} INFO - Started process (PID=10183) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:07.368+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:10:07.370+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:07.369+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:07.781+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:07.867+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:07.866+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:10:07.880+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:07.880+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:10:07.910+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.553 seconds
+[2024-06-25T14:10:38.064+0300] {processor.py:161} INFO - Started process (PID=10263) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:38.065+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:10:38.067+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:38.067+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:38.465+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:10:38.481+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:38.481+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:10:38.494+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:10:38.494+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:10:38.521+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.465 seconds
+[2024-06-25T14:11:08.955+0300] {processor.py:161} INFO - Started process (PID=10317) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:08.956+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:11:08.958+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:08.958+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:09.377+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:09.403+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:09.403+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:11:09.421+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:09.421+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:11:09.456+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.509 seconds
+[2024-06-25T14:11:38.973+0300] {processor.py:161} INFO - Started process (PID=10553) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:38.975+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:11:38.978+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:38.977+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:39.556+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:11:39.570+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:39.569+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:11:39.588+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:11:39.588+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:11:39.657+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.694 seconds
+[2024-06-25T14:12:10.339+0300] {processor.py:161} INFO - Started process (PID=10874) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:10.340+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:12:10.345+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:10.344+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:10.805+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:10.911+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:10.910+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:12:10.922+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:10.921+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:12:10.947+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.617 seconds
+[2024-06-25T14:12:41.486+0300] {processor.py:161} INFO - Started process (PID=10988) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:41.487+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:12:41.489+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:41.489+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:41.986+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:12:42.006+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:42.005+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:12:42.024+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:12:42.024+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:12:42.056+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.581 seconds
+[2024-06-25T14:13:12.523+0300] {processor.py:161} INFO - Started process (PID=11279) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:12.524+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:13:12.526+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:12.526+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:12.922+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:12.939+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:12.939+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:13:12.952+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:12.952+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:13:12.968+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.455 seconds
+[2024-06-25T14:13:43.392+0300] {processor.py:161} INFO - Started process (PID=11393) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:43.393+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:13:43.395+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:43.394+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:43.802+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:13:43.818+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:43.818+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:13:43.831+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:13:43.831+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:13:43.862+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.480 seconds
+[2024-06-25T14:14:14.294+0300] {processor.py:161} INFO - Started process (PID=11444) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:14.295+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:14:14.297+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:14.297+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:14.700+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:14.716+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:14.715+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:14:14.728+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:14.728+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:14:14.755+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.469 seconds
+[2024-06-25T14:14:45.134+0300] {processor.py:161} INFO - Started process (PID=11558) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:45.135+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:14:45.137+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:45.137+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:45.534+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:14:45.550+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:45.550+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:14:45.564+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:14:45.564+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:14:45.591+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.465 seconds
+[2024-06-25T14:15:15.931+0300] {processor.py:161} INFO - Started process (PID=11730) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:15.932+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:15:15.934+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:15.934+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:16.350+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:16.366+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:16.365+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:15:16.379+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:16.379+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:15:16.407+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.484 seconds
+[2024-06-25T14:15:46.567+0300] {processor.py:161} INFO - Started process (PID=11844) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:46.568+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:15:46.570+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:46.570+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:46.974+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:15:46.989+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:46.988+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:15:47.001+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:15:47.001+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:15:47.028+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.469 seconds
+[2024-06-25T14:16:17.256+0300] {processor.py:161} INFO - Started process (PID=11898) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:17.257+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:16:17.259+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:17.259+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:17.667+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:17.683+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:17.683+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:16:17.696+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:17.696+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:16:17.725+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.479 seconds
+[2024-06-25T14:16:47.906+0300] {processor.py:161} INFO - Started process (PID=12069) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:47.907+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:16:47.909+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:47.909+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:48.337+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:16:48.354+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:48.354+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:16:48.368+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:16:48.368+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:16:48.397+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.499 seconds
+[2024-06-25T14:17:20.126+0300] {processor.py:161} INFO - Started process (PID=12123) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:20.127+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:17:20.129+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:20.129+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:20.536+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:20.552+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:20.552+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:17:20.565+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:20.565+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:17:20.594+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.476 seconds
+[2024-06-25T14:17:50.928+0300] {processor.py:161} INFO - Started process (PID=12237) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:50.929+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:17:50.932+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:50.931+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:51.350+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:17:51.365+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:51.364+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:17:51.377+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:17:51.377+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:17:51.404+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.484 seconds
+[2024-06-25T14:18:21.555+0300] {processor.py:161} INFO - Started process (PID=12454) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:21.556+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:18:21.561+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:21.561+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:22.081+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:22.208+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:22.204+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:18:22.269+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:22.269+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:18:22.423+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.883 seconds
+[2024-06-25T14:18:52.591+0300] {processor.py:161} INFO - Started process (PID=12603) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:52.594+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:18:52.598+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:52.597+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:53.017+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:18:53.033+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:53.033+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:18:53.047+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:18:53.046+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:18:53.076+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.494 seconds
+[2024-06-25T14:19:23.282+0300] {processor.py:161} INFO - Started process (PID=12654) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:23.283+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:19:23.285+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:23.285+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:23.712+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:23.729+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:23.729+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:19:23.742+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:23.741+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:19:23.768+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.494 seconds
+[2024-06-25T14:19:55.180+0300] {processor.py:161} INFO - Started process (PID=12890) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:55.181+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:19:55.183+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:55.183+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:55.695+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:19:55.714+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:55.714+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:19:55.730+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:19:55.730+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:19:55.757+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.587 seconds
+[2024-06-25T14:20:26.837+0300] {processor.py:161} INFO - Started process (PID=12944) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:26.838+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:20:26.840+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:26.840+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:27.406+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:27.449+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:27.448+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:20:27.487+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:27.485+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:20:27.537+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.710 seconds
+[2024-06-25T14:20:58.472+0300] {processor.py:161} INFO - Started process (PID=13058) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:58.474+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:20:58.478+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:58.478+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:58.901+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:20:58.919+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:58.918+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:20:58.934+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:20:58.934+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:20:58.963+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.508 seconds
+[2024-06-25T14:21:32.823+0300] {processor.py:161} INFO - Started process (PID=13416) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:21:32.825+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:21:32.827+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:21:32.827+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:21:33.349+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:21:33.378+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:21:33.376+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:21:33.412+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:21:33.411+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:21:33.458+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.668 seconds
+[2024-06-25T14:22:16.686+0300] {processor.py:161} INFO - Started process (PID=14113) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:16.687+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:22:16.691+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:16.690+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:17.115+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:17.141+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:17.141+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:22:17.163+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:17.163+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:22:17.195+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.527 seconds
+[2024-06-25T14:22:47.900+0300] {processor.py:161} INFO - Started process (PID=14606) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:47.901+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:22:47.903+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:47.902+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:48.346+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:22:48.369+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:48.368+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:22:48.388+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:22:48.387+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:22:48.419+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.532 seconds
+[2024-06-25T14:23:19.389+0300] {processor.py:161} INFO - Started process (PID=15020) to work on /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:23:19.391+0300] {processor.py:830} INFO - Processing file /home/user/rubix/internship_project/dags/fetch_DAG.py for tasks to queue
+[2024-06-25T14:23:19.396+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:23:19.395+0300] {dagbag.py:545} INFO - Filling up the DagBag from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:23:19.819+0300] {processor.py:840} INFO - DAG(s) 'Fetch_Data' retrieved from /home/user/rubix/internship_project/dags/fetch_DAG.py
+[2024-06-25T14:23:19.846+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:23:19.846+0300] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-25T14:23:19.866+0300] {logging_mixin.py:188} INFO - [2024-06-25T14:23:19.865+0300] {dag.py:3954} INFO - Setting next_dagrun for Fetch_Data to 2024-06-25 00:00:00+00:00, run_after=2024-06-26 00:00:00+00:00
+[2024-06-25T14:23:19.897+0300] {processor.py:183} INFO - Processing /home/user/rubix/internship_project/dags/fetch_DAG.py took 0.525 seconds
