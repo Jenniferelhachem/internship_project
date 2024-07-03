@@ -1,3 +1,0 @@
-[2024-07-01T12:33:47.117+0300] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
-[2024-07-01T12:33:47.221+0300] {taskinstance.py:2066} INFO - Dependencies not met for <TaskInstance: Ingest_Data.wait_for_fetch_task scheduled__2024-06-30T00:00:00+00:00 [up_for_retry]>, dependency 'Not In Retry Period' FAILED: Task is not ready for retry yet but will be retried automatically. Current date is 2024-07-01T09:33:47.221715+00:00 and task will be retried at 2024-07-01T09:38:42.889621+00:00.
-[2024-07-01T12:33:47.222+0300] {local_task_job_runner.py:163} INFO - Task is not able to be run
