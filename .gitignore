@@ -4,6 +4,4 @@ tutorial*
 *.ipynb
 *.json
 *_venv
-logs/
-airflow.*
 tmp/
